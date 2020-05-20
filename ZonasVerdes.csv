@@ -1,20 +1,20 @@
-DT;Num;Sup
-Ciutat Vella;39;72885
-l'Eixample;13;53932
-Extramurs;25;130746
-Campanar;58;372873
-la SaÃ¯dia;37;309986
-el Pla del Real;33;211680
-l'Olivereta;41;216962
-Patraix;37;216583
-JesÃºs;38;171385
-Quatre Carreres;66;468547
-Poblats MarÃ­tims;58;267123
-Camins al Grau;45;205355
-AlgirÃ³s;44;174847
-Benimaclet;24;62195
-Rascanya;35;185284
-Benicalap;41;218469
-Pobles del Nord;18;47715
-Pobles de l'Oest;11;79996
-Pobles del Sud;38;57349
+DT;Num;Sup_Verde;Sup_Total
+ 1  Ciutat Vella;39;72885;1689842,069
+ 2  l'Eixample;13;53932;1733183,611
+ 3  Extramurs;25;130746;1971688,099
+ 4  Campanar;58;372873;5237785,237
+ 5  la Saïdia;37;309986;1943909,139
+ 6  el Pla del Real;33;211680;1692951,37
+ 7  l'Olivereta;41;216962;1988804,711
+ 8  Patraix;37;216583;2872641,063
+ 9  Jesús;38;171385;2984605,594
+10  Quatre Carreres;66;468547;11325205,82
+11  Poblats Marítims;58;267123;9783488,121
+12  Camins al Grau;45;205355;2367209,493
+13  Algirós;44;174847;2959187,815
+14  Benimaclet;24;62195;1570285,048
+15  Rascanya;35;185284;2628714,467
+16  Benicalap;41;218469;2215853,901
+17  Pobles del Nord;18;47715;15196113,21
+18  Pobles de l'Oest;11;79996;2011130,262
+19  Pobles del Sud;38;57349;66176430,06
