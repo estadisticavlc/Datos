@@ -2179,7 +2179,6 @@ ubicación
 ubicación
 ubicación
 ubicación
-
 facilidad_para_aparcar
 facilidad_para_aparcar
 facilidad_para_aparcar
@@ -2278,8 +2277,8 @@ huerta_valenciana
 huerta_valenciana
 huerta_valenciana
 huerta_valenciana
-Carrers_de_vianants
-Carrers_de_vianants
+calles_peatonales
+calles_peatonales
 barrio_con_historia
 barrio_con_historia
 barrio_con_historia
