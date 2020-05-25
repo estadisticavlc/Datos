@@ -1,0 +1,595 @@
+DT_nombre;DTBA_nombre;DT;BA;SC;DTBA;DTSC
+1. Ciutat Vella;1.1. la Seu;1;1;1;11;101
+1. Ciutat Vella;1.1. la Seu;1;1;2;11;102
+1. Ciutat Vella;1.1. la Seu;1;1;3;11;103
+1. Ciutat Vella;1.2. la Xerea;1;2;5;12;105
+1. Ciutat Vella;1.2. la Xerea;1;2;7;12;107
+1. Ciutat Vella;1.2. la Xerea;1;2;8;12;108
+1. Ciutat Vella;1.2. la Xerea;1;2;9;12;109
+1. Ciutat Vella;1.3. el Carme;1;3;10;13;110
+1. Ciutat Vella;1.3. el Carme;1;3;11;13;111
+1. Ciutat Vella;1.3. el Carme;1;3;12;13;112
+1. Ciutat Vella;1.3. el Carme;1;3;13;13;113
+1. Ciutat Vella;1.3. el Carme;1;3;14;13;114
+1. Ciutat Vella;1.3. el Carme;1;3;17;13;117
+1. Ciutat Vella;1.4. el Pilar;1;4;19;14;119
+1. Ciutat Vella;1.4. el Pilar;1;4;22;14;122
+1. Ciutat Vella;1.4. el Pilar;1;4;23;14;123
+1. Ciutat Vella;1.5. el Mercat;1;5;24;15;124
+1. Ciutat Vella;1.5. el Mercat;1;5;25;15;125
+1. Ciutat Vella;1.5. el Mercat;1;5;26;15;126
+1. Ciutat Vella;1.6. Sant Francesc;1;6;28;16;128
+1. Ciutat Vella;1.6. Sant Francesc;1;6;30;16;130
+1. Ciutat Vella;1.6. Sant Francesc;1;6;31;16;131
+1. Ciutat Vella;1.6. Sant Francesc;1;6;32;16;132
+1. Ciutat Vella;1.6. Sant Francesc;1;6;34;16;134
+2. l'Eixample;2.1. Russafa;2;1;1;21;201
+2. l'Eixample;2.1. Russafa;2;1;3;21;203
+2. l'Eixample;2.1. Russafa;2;1;4;21;204
+2. l'Eixample;2.1. Russafa;2;1;6;21;206
+2. l'Eixample;2.1. Russafa;2;1;8;21;208
+2. l'Eixample;2.1. Russafa;2;1;9;21;209
+2. l'Eixample;2.1. Russafa;2;1;10;21;210
+2. l'Eixample;2.1. Russafa;2;1;13;21;213
+2. l'Eixample;2.1. Russafa;2;1;14;21;214
+2. l'Eixample;2.1. Russafa;2;1;15;21;215
+2. l'Eixample;2.1. Russafa;2;1;16;21;216
+2. l'Eixample;2.1. Russafa;2;1;18;21;218
+2. l'Eixample;2.1. Russafa;2;1;19;21;219
+2. l'Eixample;2.1. Russafa;2;1;20;21;220
+2. l'Eixample;2.1. Russafa;2;1;21;21;221
+2. l'Eixample;2.1. Russafa;2;1;22;21;222
+2. l'Eixample;2.1. Russafa;2;1;23;21;223
+2. l'Eixample;2.1. Russafa;2;1;24;21;224
+2. l'Eixample;2.1. Russafa;2;1;25;21;225
+2. l'Eixample;2.1. Russafa;2;1;26;21;226
+2. l'Eixample;2.1. Russafa;2;1;30;21;230
+2. l'Eixample;2.1. Russafa;2;1;31;21;231
+2. l'Eixample;2.1. Russafa;2;1;32;21;232
+2. l'Eixample;2.2. el Pla del Remei;2;2;33;22;233
+2. l'Eixample;2.2. el Pla del Remei;2;2;35;22;235
+2. l'Eixample;2.2. el Pla del Remei;2;2;36;22;236
+2. l'Eixample;2.2. el Pla del Remei;2;2;37;22;237
+2. l'Eixample;2.2. el Pla del Remei;2;2;39;22;239
+2. l'Eixample;2.2. el Pla del Remei;2;2;40;22;240
+2. l'Eixample;2.2. el Pla del Remei;2;2;41;22;241
+2. l'Eixample;2.3. Gran Via;2;3;42;23;242
+2. l'Eixample;2.3. Gran Via;2;3;43;23;243
+2. l'Eixample;2.3. Gran Via;2;3;44;23;244
+2. l'Eixample;2.3. Gran Via;2;3;45;23;245
+2. l'Eixample;2.3. Gran Via;2;3;46;23;246
+2. l'Eixample;2.3. Gran Via;2;3;47;23;247
+2. l'Eixample;2.3. Gran Via;2;3;50;23;250
+2. l'Eixample;2.3. Gran Via;2;3;51;23;251
+2. l'Eixample;2.3. Gran Via;2;3;53;23;253
+2. l'Eixample;2.3. Gran Via;2;3;54;23;254
+2. l'Eixample;2.3. Gran Via;2;3;55;23;255
+2. l'Eixample;2.3. Gran Via;2;3;57;23;257
+3. Extramurs;3.1. el Botànic;3;1;1;31;301
+3. Extramurs;3.1. el Botànic;3;1;2;31;302
+3. Extramurs;3.1. el Botànic;3;1;4;31;304
+3. Extramurs;3.1. el Botànic;3;1;7;31;307
+3. Extramurs;3.1. el Botànic;3;1;8;31;308
+3. Extramurs;3.2. la Roqueta;3;2;10;32;310
+3. Extramurs;3.2. la Roqueta;3;2;13;32;313
+3. Extramurs;3.2. la Roqueta;3;2;15;32;315
+3. Extramurs;3.3. la Petxina;3;3;17;33;317
+3. Extramurs;3.3. la Petxina;3;3;18;33;318
+3. Extramurs;3.3. la Petxina;3;3;19;33;319
+3. Extramurs;3.3. la Petxina;3;3;20;33;320
+3. Extramurs;3.3. la Petxina;3;3;21;33;321
+3. Extramurs;3.3. la Petxina;3;3;23;33;323
+3. Extramurs;3.3. la Petxina;3;3;25;33;325
+3. Extramurs;3.3. la Petxina;3;3;26;33;326
+3. Extramurs;3.3. la Petxina;3;3;27;33;327
+3. Extramurs;3.3. la Petxina;3;3;29;33;329
+3. Extramurs;3.3. la Petxina;3;3;30;33;330
+3. Extramurs;3.3. la Petxina;3;3;32;33;332
+3. Extramurs;3.4. Arrancapins;3;4;33;34;333
+3. Extramurs;3.4. Arrancapins;3;4;34;34;334
+3. Extramurs;3.4. Arrancapins;3;4;35;34;335
+3. Extramurs;3.4. Arrancapins;3;4;36;34;336
+3. Extramurs;3.4. Arrancapins;3;4;37;34;337
+3. Extramurs;3.4. Arrancapins;3;4;38;34;338
+3. Extramurs;3.4. Arrancapins;3;4;40;34;340
+3. Extramurs;3.4. Arrancapins;3;4;41;34;341
+3. Extramurs;3.4. Arrancapins;3;4;44;34;344
+3. Extramurs;3.4. Arrancapins;3;4;46;34;346
+3. Extramurs;3.4. Arrancapins;3;4;47;34;347
+3. Extramurs;3.4. Arrancapins;3;4;48;34;348
+3. Extramurs;3.4. Arrancapins;3;4;49;34;349
+3. Extramurs;3.4. Arrancapins;3;4;50;34;350
+3. Extramurs;3.4. Arrancapins;3;4;52;34;352
+3. Extramurs;3.4. Arrancapins;3;4;53;34;353
+3. Extramurs;3.4. Arrancapins;3;4;55;34;355
+4. Campanar;4.1. Campanar;4;1;1;41;401
+4. Campanar;4.1. Campanar;4;1;2;41;402
+4. Campanar;4.1. Campanar;4;1;3;41;403
+4. Campanar;4.1. Campanar;4;1;4;41;404
+4. Campanar;4.1. Campanar;4;1;5;41;405
+4. Campanar;4.1. Campanar;4;1;6;41;406
+4. Campanar;4.1. Campanar;4;1;20;41;420
+4. Campanar;4.1. Campanar;4;1;21;41;421
+4. Campanar;4.1. Campanar;4;1;22;41;422
+4. Campanar;4.2. les Tendetes;4;2;7;42;407
+4. Campanar;4.2. les Tendetes;4;2;8;42;408
+4. Campanar;4.2. les Tendetes;4;2;9;42;409
+4. Campanar;4.2. les Tendetes;4;2;10;42;410
+4. Campanar;4.2. les Tendetes;4;2;11;42;411
+4. Campanar;4.3. el Calvari;4;3;12;43;412
+4. Campanar;4.3. el Calvari;4;3;14;43;414
+4. Campanar;4.3. el Calvari;4;3;15;43;415
+4. Campanar;4.3. el Calvari;4;3;16;43;416
+4. Campanar;4.4. Sant Pau;4;4;17;44;417
+4. Campanar;4.4. Sant Pau;4;4;18;44;418
+4. Campanar;4.4. Sant Pau;4;4;19;44;419
+4. Campanar;4.4. Sant Pau;4;4;23;44;423
+4. Campanar;4.4. Sant Pau;4;4;24;44;424
+4. Campanar;4.4. Sant Pau;4;4;25;44;425
+4. Campanar;4.4. Sant Pau;4;4;26;44;426
+4. Campanar;4.4. Sant Pau;4;4;27;44;427
+4. Campanar;4.4. Sant Pau;4;4;28;44;428
+5. la Saïdia;5.1. Marxalenes;5;1;1;51;501
+5. la Saïdia;5.1. Marxalenes;5;1;2;51;502
+5. la Saïdia;5.1. Marxalenes;5;1;3;51;503
+5. la Saïdia;5.1. Marxalenes;5;1;4;51;504
+5. la Saïdia;5.1. Marxalenes;5;1;5;51;505
+5. la Saïdia;5.1. Marxalenes;5;1;6;51;506
+5. la Saïdia;5.1. Marxalenes;5;1;7;51;507
+5. la Saïdia;5.1. Marxalenes;5;1;8;51;508
+5. la Saïdia;5.1. Marxalenes;5;1;9;51;509
+5. la Saïdia;5.2. Morvedre;5;2;10;52;510
+5. la Saïdia;5.2. Morvedre;5;2;11;52;511
+5. la Saïdia;5.2. Morvedre;5;2;13;52;513
+5. la Saïdia;5.2. Morvedre;5;2;14;52;514
+5. la Saïdia;5.2. Morvedre;5;2;15;52;515
+5. la Saïdia;5.2. Morvedre;5;2;16;52;516
+5. la Saïdia;5.2. Morvedre;5;2;17;52;517
+5. la Saïdia;5.2. Morvedre;5;2;18;52;518
+5. la Saïdia;5.3. Trinitat;5;3;21;53;521
+5. la Saïdia;5.3. Trinitat;5;3;22;53;522
+5. la Saïdia;5.3. Trinitat;5;3;25;53;525
+5. la Saïdia;5.3. Trinitat;5;3;26;53;526
+5. la Saïdia;5.3. Trinitat;5;3;27;53;527
+5. la Saïdia;5.3. Trinitat;5;3;28;53;528
+5. la Saïdia;5.4. Tormos;5;4;29;54;529
+5. la Saïdia;5.4. Tormos;5;4;31;54;531
+5. la Saïdia;5.4. Tormos;5;4;33;54;533
+5. la Saïdia;5.4. Tormos;5;4;34;54;534
+5. la Saïdia;5.4. Tormos;5;4;36;54;536
+5. la Saïdia;5.4. Tormos;5;4;43;54;543
+5. la Saïdia;5.5. Sant Antoni;5;5;37;55;537
+5. la Saïdia;5.5. Sant Antoni;5;5;38;55;538
+5. la Saïdia;5.5. Sant Antoni;5;5;39;55;539
+5. la Saïdia;5.5. Sant Antoni;5;5;40;55;540
+5. la Saïdia;5.5. Sant Antoni;5;5;41;55;541
+5. la Saïdia;5.5. Sant Antoni;5;5;42;55;542
+6. el Pla del Real;6.1. Exposició;6;1;1;61;601
+6. el Pla del Real;6.1. Exposició;6;1;2;61;602
+6. el Pla del Real;6.1. Exposició;6;1;3;61;603
+6. el Pla del Real;6.1. Exposició;6;1;4;61;604
+6. el Pla del Real;6.1. Exposició;6;1;6;61;606
+6. el Pla del Real;6.2. Mestalla;6;2;7;62;607
+6. el Pla del Real;6.2. Mestalla;6;2;8;62;608
+6. el Pla del Real;6.2. Mestalla;6;2;9;62;609
+6. el Pla del Real;6.2. Mestalla;6;2;11;62;611
+6. el Pla del Real;6.2. Mestalla;6;2;12;62;612
+6. el Pla del Real;6.2. Mestalla;6;2;13;62;613
+6. el Pla del Real;6.2. Mestalla;6;2;14;62;614
+6. el Pla del Real;6.2. Mestalla;6;2;15;62;615
+6. el Pla del Real;6.2. Mestalla;6;2;26;62;626
+6. el Pla del Real;6.2. Mestalla;6;2;27;62;627
+6. el Pla del Real;6.3. Jaume Roig;6;3;16;63;616
+6. el Pla del Real;6.3. Jaume Roig;6;3;17;63;617
+6. el Pla del Real;6.3. Jaume Roig;6;3;18;63;618
+6. el Pla del Real;6.3. Jaume Roig;6;3;19;63;619
+6. el Pla del Real;6.3. Jaume Roig;6;3;21;63;621
+6. el Pla del Real;6.3. Jaume Roig;6;3;22;63;622
+6. el Pla del Real;6.4. Ciutat Universitària;6;4;23;64;623
+6. el Pla del Real;6.4. Ciutat Universitària;6;4;24;64;624
+7. l'Olivereta;7.1. Nou Moles;7;1;1;71;701
+7. l'Olivereta;7.1. Nou Moles;7;1;2;71;702
+7. l'Olivereta;7.1. Nou Moles;7;1;3;71;703
+7. l'Olivereta;7.1. Nou Moles;7;1;4;71;704
+7. l'Olivereta;7.1. Nou Moles;7;1;5;71;705
+7. l'Olivereta;7.1. Nou Moles;7;1;6;71;706
+7. l'Olivereta;7.1. Nou Moles;7;1;7;71;707
+7. l'Olivereta;7.1. Nou Moles;7;1;8;71;708
+7. l'Olivereta;7.1. Nou Moles;7;1;9;71;709
+7. l'Olivereta;7.1. Nou Moles;7;1;10;71;710
+7. l'Olivereta;7.1. Nou Moles;7;1;12;71;712
+7. l'Olivereta;7.1. Nou Moles;7;1;13;71;713
+7. l'Olivereta;7.1. Nou Moles;7;1;14;71;714
+7. l'Olivereta;7.1. Nou Moles;7;1;15;71;715
+7. l'Olivereta;7.1. Nou Moles;7;1;16;71;716
+7. l'Olivereta;7.1. Nou Moles;7;1;17;71;717
+7. l'Olivereta;7.1. Nou Moles;7;1;18;71;718
+7. l'Olivereta;7.1. Nou Moles;7;1;19;71;719
+7. l'Olivereta;7.1. Nou Moles;7;1;20;71;720
+7. l'Olivereta;7.1. Nou Moles;7;1;41;71;741
+7. l'Olivereta;7.2. Soternes;7;2;21;72;721
+7. l'Olivereta;7.2. Soternes;7;2;22;72;722
+7. l'Olivereta;7.2. Soternes;7;2;23;72;723
+7. l'Olivereta;7.2. Soternes;7;2;24;72;724
+7. l'Olivereta;7.3. Tres Forques;7;3;25;73;725
+7. l'Olivereta;7.3. Tres Forques;7;3;26;73;726
+7. l'Olivereta;7.3. Tres Forques;7;3;27;73;727
+7. l'Olivereta;7.3. Tres Forques;7;3;29;73;729
+7. l'Olivereta;7.3. Tres Forques;7;3;30;73;730
+7. l'Olivereta;7.3. Tres Forques;7;3;31;73;731
+7. l'Olivereta;7.3. Tres Forques;7;3;32;73;732
+7. l'Olivereta;7.4. la Fontsanta;7;4;36;74;736
+7. l'Olivereta;7.4. la Fontsanta;7;4;37;74;737
+7. l'Olivereta;7.5. la Llum;7;5;39;75;739
+7. l'Olivereta;7.5. la Llum;7;5;40;75;740
+7. l'Olivereta;7.5. la Llum;7;5;42;75;742
+8. Patraix;8.1. Patraix;8;1;1;81;801
+8. Patraix;8.1. Patraix;8;1;2;81;802
+8. Patraix;8.1. Patraix;8;1;3;81;803
+8. Patraix;8.1. Patraix;8;1;4;81;804
+8. Patraix;8.1. Patraix;8;1;5;81;805
+8. Patraix;8.1. Patraix;8;1;6;81;806
+8. Patraix;8.1. Patraix;8;1;7;81;807
+8. Patraix;8.1. Patraix;8;1;8;81;808
+8. Patraix;8.1. Patraix;8;1;9;81;809
+8. Patraix;8.1. Patraix;8;1;10;81;810
+8. Patraix;8.1. Patraix;8;1;12;81;812
+8. Patraix;8.1. Patraix;8;1;13;81;813
+8. Patraix;8.1. Patraix;8;1;14;81;814
+8. Patraix;8.1. Patraix;8;1;15;81;815
+8. Patraix;8.1. Patraix;8;1;16;81;816
+8. Patraix;8.1. Patraix;8;1;17;81;817
+8. Patraix;8.1. Patraix;8;1;18;81;818
+8. Patraix;8.1. Patraix;8;1;33;81;833
+8. Patraix;8.1. Patraix;8;1;40;81;840
+8. Patraix;8.2. Sant Isidre;8;2;19;82;819
+8. Patraix;8.2. Sant Isidre;8;2;20;82;820
+8. Patraix;8.2. Sant Isidre;8;2;21;82;821
+8. Patraix;8.2. Sant Isidre;8;2;34;82;834
+8. Patraix;8.2. Sant Isidre;8;2;35;82;835
+8. Patraix;8.2. Sant Isidre;8;2;39;82;839
+8. Patraix;8.3. Vara de Quart;8;3;22;83;822
+8. Patraix;8.3. Vara de Quart;8;3;23;83;823
+8. Patraix;8.3. Vara de Quart;8;3;24;83;824
+8. Patraix;8.3. Vara de Quart;8;3;25;83;825
+8. Patraix;8.3. Vara de Quart;8;3;26;83;826
+8. Patraix;8.3. Vara de Quart;8;3;36;83;836
+8. Patraix;8.3. Vara de Quart;8;3;37;83;837
+8. Patraix;8.3. Vara de Quart;8;3;38;83;838
+8. Patraix;8.4. Safranar;8;4;27;84;827
+8. Patraix;8.4. Safranar;8;4;28;84;828
+8. Patraix;8.4. Safranar;8;4;29;84;829
+8. Patraix;8.4. Safranar;8;4;30;84;830
+8. Patraix;8.4. Safranar;8;4;41;84;841
+8. Patraix;8.4. Safranar;8;4;42;84;842
+8. Patraix;8.5. Favara;8;5;31;85;831
+8. Patraix;8.5. Favara;8;5;32;85;832
+9. Jesús;9.1. la Raiosa;9;1;1;91;901
+9. Jesús;9.1. la Raiosa;9;1;2;91;902
+9. Jesús;9.1. la Raiosa;9;1;3;91;903
+9. Jesús;9.1. la Raiosa;9;1;4;91;904
+9. Jesús;9.1. la Raiosa;9;1;5;91;905
+9. Jesús;9.1. la Raiosa;9;1;7;91;907
+9. Jesús;9.1. la Raiosa;9;1;8;91;908
+9. Jesús;9.1. la Raiosa;9;1;9;91;909
+9. Jesús;9.1. la Raiosa;9;1;10;91;910
+9. Jesús;9.1. la Raiosa;9;1;12;91;912
+9. Jesús;9.1. la Raiosa;9;1;41;91;941
+9. Jesús;9.2. l'Hort de Senabre;9;2;13;92;913
+9. Jesús;9.2. l'Hort de Senabre;9;2;15;92;915
+9. Jesús;9.2. l'Hort de Senabre;9;2;16;92;916
+9. Jesús;9.2. l'Hort de Senabre;9;2;17;92;917
+9. Jesús;9.2. l'Hort de Senabre;9;2;18;92;918
+9. Jesús;9.2. l'Hort de Senabre;9;2;19;92;919
+9. Jesús;9.2. l'Hort de Senabre;9;2;20;92;920
+9. Jesús;9.2. l'Hort de Senabre;9;2;21;92;921
+9. Jesús;9.2. l'Hort de Senabre;9;2;22;92;922
+9. Jesús;9.2. l'Hort de Senabre;9;2;23;92;923
+9. Jesús;9.2. l'Hort de Senabre;9;2;24;92;924
+9. Jesús;9.2. l'Hort de Senabre;9;2;42;92;942
+9. Jesús;9.3. la Creu Coberta;9;3;25;93;925
+9. Jesús;9.3. la Creu Coberta;9;3;26;93;926
+9. Jesús;9.3. la Creu Coberta;9;3;28;93;928
+9. Jesús;9.3. la Creu Coberta;9;3;29;93;929
+9. Jesús;9.4. Sant Marcel·lí;9;4;30;94;930
+9. Jesús;9.4. Sant Marcel·lí;9;4;31;94;931
+9. Jesús;9.4. Sant Marcel·lí;9;4;32;94;932
+9. Jesús;9.4. Sant Marcel·lí;9;4;33;94;933
+9. Jesús;9.4. Sant Marcel·lí;9;4;34;94;934
+9. Jesús;9.4. Sant Marcel·lí;9;4;35;94;935
+9. Jesús;9.4. Sant Marcel·lí;9;4;36;94;936
+9. Jesús;9.4. Sant Marcel·lí;9;4;37;94;937
+9. Jesús;9.4. Sant Marcel·lí;9;4;40;94;940
+9. Jesús;9.5. Camí Real;9;5;38;95;938
+9. Jesús;9.5. Camí Real;9;5;39;95;939
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;1;101;1001
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;2;101;1002
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;3;101;1003
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;4;101;1004
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;5;101;1005
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;6;101;1006
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;7;101;1007
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;8;101;1008
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;9;101;1009
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;10;101;1010
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;11;101;1011
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;12;101;1012
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;44;101;1044
+10. Quatre Carreres;10.1. Mont-Olivet;10;1;45;101;1045
+10. Quatre Carreres;10.2. en Corts;10;2;13;102;1013
+10. Quatre Carreres;10.2. en Corts;10;2;14;102;1014
+10. Quatre Carreres;10.2. en Corts;10;2;15;102;1015
+10. Quatre Carreres;10.2. en Corts;10;2;16;102;1016
+10. Quatre Carreres;10.2. en Corts;10;2;17;102;1017
+10. Quatre Carreres;10.2. en Corts;10;2;18;102;1018
+10. Quatre Carreres;10.2. en Corts;10;2;19;102;1019
+10. Quatre Carreres;10.2. en Corts;10;2;21;102;1021
+10. Quatre Carreres;10.2. en Corts;10;2;46;102;1046
+10. Quatre Carreres;10.3. Malilla;10;3;22;103;1022
+10. Quatre Carreres;10.3. Malilla;10;3;23;103;1023
+10. Quatre Carreres;10.3. Malilla;10;3;24;103;1024
+10. Quatre Carreres;10.3. Malilla;10;3;25;103;1025
+10. Quatre Carreres;10.3. Malilla;10;3;26;103;1026
+10. Quatre Carreres;10.3. Malilla;10;3;27;103;1027
+10. Quatre Carreres;10.3. Malilla;10;3;28;103;1028
+10. Quatre Carreres;10.3. Malilla;10;3;29;103;1029
+10. Quatre Carreres;10.3. Malilla;10;3;39;103;1039
+10. Quatre Carreres;10.3. Malilla;10;3;43;103;1043
+10. Quatre Carreres;10.3. Malilla;10;3;47;103;1047
+10. Quatre Carreres;10.3. Malilla;10;3;48;103;1048
+10. Quatre Carreres;10.3. Malilla;10;3;49;103;1049
+10. Quatre Carreres;10.3. Malilla;10;3;50;103;1050
+10. Quatre Carreres;10.3. Malilla;10;3;51;103;1051
+10. Quatre Carreres;10.4. Fonteta de Sant Lluís;10;4;30;104;1030
+10. Quatre Carreres;10.4. Fonteta de Sant Lluís;10;4;31;104;1031
+10. Quatre Carreres;10.5. na Rovella;10;5;32;105;1032
+10. Quatre Carreres;10.5. na Rovella;10;5;33;105;1033
+10. Quatre Carreres;10.5. na Rovella;10;5;34;105;1034
+10. Quatre Carreres;10.5. na Rovella;10;5;35;105;1035
+10. Quatre Carreres;10.5. na Rovella;10;5;36;105;1036
+10. Quatre Carreres;10.5. na Rovella;10;5;37;105;1037
+10. Quatre Carreres;10.6. la Punta;10;6;41;106;1041
+10. Quatre Carreres;10.6. la Punta;10;6;54;106;1054
+10. Quatre Carreres;10.7. Ciutat de les Arts i de les Ciències;10;7;40;107;1040
+10. Quatre Carreres;10.7. Ciutat de les Arts i de les Ciències;10;7;52;107;1052
+10. Quatre Carreres;10.7. Ciutat de les Arts i de les Ciències;10;7;53;107;1053
+11. Poblats Marítims;11.1. el Grau;11;1;1;111;1101
+11. Poblats Marítims;11.1. el Grau;11;1;2;111;1102
+11. Poblats Marítims;11.1. el Grau;11;1;4;111;1104
+11. Poblats Marítims;11.1. el Grau;11;1;5;111;1105
+11. Poblats Marítims;11.1. el Grau;11;1;6;111;1106
+11. Poblats Marítims;11.1. el Grau;11;1;54;111;1154
+11. Poblats Marítims;11.1. el Grau;11;1;55;111;1155
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;8;112;1108
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;9;112;1109
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;11;112;1111
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;12;112;1112
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;13;112;1113
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;15;112;1115
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;17;112;1117
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;18;112;1118
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;19;112;1119
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;21;112;1121
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;22;112;1122
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;24;112;1124
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;26;112;1126
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;28;112;1128
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;29;112;1129
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;30;112;1130
+11. Poblats Marítims;11.2. el Cabanyal-el Canyamelar;11;2;31;112;1131
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;32;113;1132
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;33;113;1133
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;34;113;1134
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;35;113;1135
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;36;113;1136
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;37;113;1137
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;38;113;1138
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;39;113;1139
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;50;113;1150
+11. Poblats Marítims;11.3. la Malva-rosa;11;3;53;113;1153
+11. Poblats Marítims;11.4. Beteró;11;4;40;114;1140
+11. Poblats Marítims;11.4. Beteró;11;4;41;114;1141
+11. Poblats Marítims;11.4. Beteró;11;4;42;114;1142
+11. Poblats Marítims;11.4. Beteró;11;4;51;114;1151
+11. Poblats Marítims;11.4. Beteró;11;4;52;114;1152
+11. Poblats Marítims;11.5. Natzaret;11;5;44;115;1144
+11. Poblats Marítims;11.5. Natzaret;11;5;45;115;1145
+11. Poblats Marítims;11.5. Natzaret;11;5;46;115;1146
+11. Poblats Marítims;11.5. Natzaret;11;5;47;115;1147
+11. Poblats Marítims;11.5. Natzaret;11;5;48;115;1148
+12. Camins al Grau;12.1. Aiora;12;1;1;121;1201
+12. Camins al Grau;12.1. Aiora;12;1;2;121;1202
+12. Camins al Grau;12.1. Aiora;12;1;3;121;1203
+12. Camins al Grau;12.1. Aiora;12;1;6;121;1206
+12. Camins al Grau;12.1. Aiora;12;1;8;121;1208
+12. Camins al Grau;12.1. Aiora;12;1;9;121;1209
+12. Camins al Grau;12.1. Aiora;12;1;10;121;1210
+12. Camins al Grau;12.1. Aiora;12;1;11;121;1211
+12. Camins al Grau;12.1. Aiora;12;1;12;121;1212
+12. Camins al Grau;12.1. Aiora;12;1;13;121;1213
+12. Camins al Grau;12.1. Aiora;12;1;14;121;1214
+12. Camins al Grau;12.1. Aiora;12;1;15;121;1215
+12. Camins al Grau;12.1. Aiora;12;1;16;121;1216
+12. Camins al Grau;12.1. Aiora;12;1;38;121;1238
+12. Camins al Grau;12.1. Aiora;12;1;39;121;1239
+12. Camins al Grau;12.1. Aiora;12;1;43;121;1243
+12. Camins al Grau;12.2. Albors;12;2;18;122;1218
+12. Camins al Grau;12.2. Albors;12;2;19;122;1219
+12. Camins al Grau;12.2. Albors;12;2;20;122;1220
+12. Camins al Grau;12.2. Albors;12;2;21;122;1221
+12. Camins al Grau;12.2. Albors;12;2;23;122;1223
+12. Camins al Grau;12.2. Albors;12;2;24;122;1224
+12. Camins al Grau;12.3. la Creu del Grau;12;3;25;123;1225
+12. Camins al Grau;12.3. la Creu del Grau;12;3;26;123;1226
+12. Camins al Grau;12.3. la Creu del Grau;12;3;27;123;1227
+12. Camins al Grau;12.3. la Creu del Grau;12;3;28;123;1228
+12. Camins al Grau;12.3. la Creu del Grau;12;3;29;123;1229
+12. Camins al Grau;12.3. la Creu del Grau;12;3;30;123;1230
+12. Camins al Grau;12.3. la Creu del Grau;12;3;31;123;1231
+12. Camins al Grau;12.3. la Creu del Grau;12;3;32;123;1232
+12. Camins al Grau;12.3. la Creu del Grau;12;3;33;123;1233
+12. Camins al Grau;12.3. la Creu del Grau;12;3;40;123;1240
+12. Camins al Grau;12.4. Camí Fondo;12;4;34;124;1234
+12. Camins al Grau;12.4. Camí Fondo;12;4;35;124;1235
+12. Camins al Grau;12.4. Camí Fondo;12;4;36;124;1236
+12. Camins al Grau;12.4. Camí Fondo;12;4;47;124;1247
+12. Camins al Grau;12.5. Penya-roja;12;5;37;125;1237
+12. Camins al Grau;12.5. Penya-roja;12;5;41;125;1241
+12. Camins al Grau;12.5. Penya-roja;12;5;42;125;1242
+12. Camins al Grau;12.5. Penya-roja;12;5;44;125;1244
+12. Camins al Grau;12.5. Penya-roja;12;5;45;125;1245
+12. Camins al Grau;12.5. Penya-roja;12;5;46;125;1246
+13. Algirós;13.1. l'Illa Perduda;13;1;1;131;1301
+13. Algirós;13.1. l'Illa Perduda;13;1;2;131;1302
+13. Algirós;13.1. l'Illa Perduda;13;1;3;131;1303
+13. Algirós;13.1. l'Illa Perduda;13;1;4;131;1304
+13. Algirós;13.1. l'Illa Perduda;13;1;5;131;1305
+13. Algirós;13.1. l'Illa Perduda;13;1;30;131;1330
+13. Algirós;13.2. Ciutat Jardí;13;2;7;132;1307
+13. Algirós;13.2. Ciutat Jardí;13;2;8;132;1308
+13. Algirós;13.2. Ciutat Jardí;13;2;9;132;1309
+13. Algirós;13.2. Ciutat Jardí;13;2;10;132;1310
+13. Algirós;13.2. Ciutat Jardí;13;2;11;132;1311
+13. Algirós;13.2. Ciutat Jardí;13;2;12;132;1312
+13. Algirós;13.2. Ciutat Jardí;13;2;13;132;1313
+13. Algirós;13.2. Ciutat Jardí;13;2;14;132;1314
+13. Algirós;13.2. Ciutat Jardí;13;2;27;132;1327
+13. Algirós;13.2. Ciutat Jardí;13;2;29;132;1329
+13. Algirós;13.3. l'Amistat;13;3;15;133;1315
+13. Algirós;13.3. l'Amistat;13;3;16;133;1316
+13. Algirós;13.3. l'Amistat;13;3;17;133;1317
+13. Algirós;13.3. l'Amistat;13;3;19;133;1319
+13. Algirós;13.3. l'Amistat;13;3;20;133;1320
+13. Algirós;13.3. l'Amistat;13;3;21;133;1321
+13. Algirós;13.4. la Bega Baixa;13;4;22;134;1322
+13. Algirós;13.4. la Bega Baixa;13;4;23;134;1323
+13. Algirós;13.4. la Bega Baixa;13;4;24;134;1324
+13. Algirós;13.4. la Bega Baixa;13;4;26;134;1326
+13. Algirós;13.5. la Carrasca;13;5;25;135;1325
+13. Algirós;13.5. la Carrasca;13;5;28;135;1328
+14. Benimaclet;14.1. Benimaclet;14;1;1;141;1401
+14. Benimaclet;14.1. Benimaclet;14;1;2;141;1402
+14. Benimaclet;14.1. Benimaclet;14;1;3;141;1403
+14. Benimaclet;14.1. Benimaclet;14;1;4;141;1404
+14. Benimaclet;14.1. Benimaclet;14;1;5;141;1405
+14. Benimaclet;14.1. Benimaclet;14;1;6;141;1406
+14. Benimaclet;14.1. Benimaclet;14;1;7;141;1407
+14. Benimaclet;14.1. Benimaclet;14;1;8;141;1408
+14. Benimaclet;14.1. Benimaclet;14;1;9;141;1409
+14. Benimaclet;14.1. Benimaclet;14;1;10;141;1410
+14. Benimaclet;14.1. Benimaclet;14;1;12;141;1412
+14. Benimaclet;14.1. Benimaclet;14;1;13;141;1413
+14. Benimaclet;14.1. Benimaclet;14;1;14;141;1414
+14. Benimaclet;14.1. Benimaclet;14;1;15;141;1415
+14. Benimaclet;14.1. Benimaclet;14;1;16;141;1416
+14. Benimaclet;14.1. Benimaclet;14;1;21;141;1421
+14. Benimaclet;14.1. Benimaclet;14;1;22;141;1422
+14. Benimaclet;14.1. Benimaclet;14;1;23;141;1423
+14. Benimaclet;14.1. Benimaclet;14;1;24;141;1424
+14. Benimaclet;14.2. Camí de Vera;14;2;18;142;1418
+14. Benimaclet;14.2. Camí de Vera;14;2;19;142;1419
+14. Benimaclet;14.2. Camí de Vera;14;2;20;142;1420
+15. Rascanya;15.1. Orriols;15;1;1;151;1501
+15. Rascanya;15.1. Orriols;15;1;2;151;1502
+15. Rascanya;15.1. Orriols;15;1;3;151;1503
+15. Rascanya;15.1. Orriols;15;1;4;151;1504
+15. Rascanya;15.1. Orriols;15;1;5;151;1505
+15. Rascanya;15.1. Orriols;15;1;6;151;1506
+15. Rascanya;15.1. Orriols;15;1;7;151;1507
+15. Rascanya;15.1. Orriols;15;1;8;151;1508
+15. Rascanya;15.1. Orriols;15;1;10;151;1510
+15. Rascanya;15.1. Orriols;15;1;11;151;1511
+15. Rascanya;15.1. Orriols;15;1;12;151;1512
+15. Rascanya;15.1. Orriols;15;1;13;151;1513
+15. Rascanya;15.1. Orriols;15;1;31;151;1531
+15. Rascanya;15.1. Orriols;15;1;36;151;1536
+15. Rascanya;15.2. Torrefiel;15;2;14;152;1514
+15. Rascanya;15.2. Torrefiel;15;2;15;152;1515
+15. Rascanya;15.2. Torrefiel;15;2;16;152;1516
+15. Rascanya;15.2. Torrefiel;15;2;17;152;1517
+15. Rascanya;15.2. Torrefiel;15;2;18;152;1518
+15. Rascanya;15.2. Torrefiel;15;2;19;152;1519
+15. Rascanya;15.2. Torrefiel;15;2;20;152;1520
+15. Rascanya;15.2. Torrefiel;15;2;21;152;1521
+15. Rascanya;15.2. Torrefiel;15;2;22;152;1522
+15. Rascanya;15.2. Torrefiel;15;2;23;152;1523
+15. Rascanya;15.2. Torrefiel;15;2;24;152;1524
+15. Rascanya;15.2. Torrefiel;15;2;25;152;1525
+15. Rascanya;15.2. Torrefiel;15;2;26;152;1526
+15. Rascanya;15.2. Torrefiel;15;2;27;152;1527
+15. Rascanya;15.2. Torrefiel;15;2;28;152;1528
+15. Rascanya;15.2. Torrefiel;15;2;30;152;1530
+15. Rascanya;15.2. Torrefiel;15;2;32;152;1532
+15. Rascanya;15.2. Torrefiel;15;2;39;152;1539
+15. Rascanya;15.3. Sant Llorenç;15;3;29;153;1529
+15. Rascanya;15.3. Sant Llorenç;15;3;33;153;1533
+15. Rascanya;15.3. Sant Llorenç;15;3;34;153;1534
+15. Rascanya;15.3. Sant Llorenç;15;3;35;153;1535
+15. Rascanya;15.3. Sant Llorenç;15;3;37;153;1537
+15. Rascanya;15.3. Sant Llorenç;15;3;38;153;1538
+15. Rascanya;15.3. Sant Llorenç;15;3;40;153;1540
+16. Benicalap;16.1. Benicalap;16;1;1;161;1601
+16. Benicalap;16.1. Benicalap;16;1;2;161;1602
+16. Benicalap;16.1. Benicalap;16;1;3;161;1603
+16. Benicalap;16.1. Benicalap;16;1;4;161;1604
+16. Benicalap;16.1. Benicalap;16;1;5;161;1605
+16. Benicalap;16.1. Benicalap;16;1;6;161;1606
+16. Benicalap;16.1. Benicalap;16;1;8;161;1608
+16. Benicalap;16.1. Benicalap;16;1;9;161;1609
+16. Benicalap;16.1. Benicalap;16;1;10;161;1610
+16. Benicalap;16.1. Benicalap;16;1;11;161;1611
+16. Benicalap;16.1. Benicalap;16;1;12;161;1612
+16. Benicalap;16.1. Benicalap;16;1;13;161;1613
+16. Benicalap;16.1. Benicalap;16;1;14;161;1614
+16. Benicalap;16.1. Benicalap;16;1;15;161;1615
+16. Benicalap;16.1. Benicalap;16;1;16;161;1616
+16. Benicalap;16.1. Benicalap;16;1;17;161;1617
+16. Benicalap;16.1. Benicalap;16;1;18;161;1618
+16. Benicalap;16.1. Benicalap;16;1;19;161;1619
+16. Benicalap;16.1. Benicalap;16;1;24;161;1624
+16. Benicalap;16.1. Benicalap;16;1;25;161;1625
+16. Benicalap;16.1. Benicalap;16;1;26;161;1626
+16. Benicalap;16.1. Benicalap;16;1;27;161;1627
+16. Benicalap;16.1. Benicalap;16;1;28;161;1628
+16. Benicalap;16.1. Benicalap;16;1;29;161;1629
+16. Benicalap;16.1. Benicalap;16;1;30;161;1630
+16. Benicalap;16.1. Benicalap;16;1;31;161;1631
+16. Benicalap;16.1. Benicalap;16;1;32;161;1632
+16. Benicalap;16.2. Ciutat Fallera;16;2;20;162;1620
+16. Benicalap;16.2. Ciutat Fallera;16;2;21;162;1621
+16. Benicalap;16.2. Ciutat Fallera;16;2;22;162;1622
+16. Benicalap;16.2. Ciutat Fallera;16;2;23;162;1623
+17. Pobles del Nord;17.1. Benifaraig;17;1;1;171;1701
+17. Pobles del Nord;17.2. Poble Nou;17;2;2;172;1702
+17. Pobles del Nord;17.3. Carpesa;17;3;3;173;1703
+17. Pobles del Nord;17.4. Cases de Bàrcena;17;4;1;174;1701
+17. Pobles del Nord;17.5. Mauella;17;5;1;175;1701
+17. Pobles del Nord;17.6. Massarrojos;17;6;6;176;1706
+17. Pobles del Nord;17.7. Borbotó;17;7;7;177;1707
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;1;181;1801
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;2;181;1802
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;3;181;1803
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;4;181;1804
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;5;181;1805
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;6;181;1806
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;7;181;1807
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;8;181;1808
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;9;181;1809
+18. Pobles de l'Oest;18.1. Benimàmet;18;1;10;181;1810
+18. Pobles de l'Oest;18.2. Beniferri;18;2;4;182;1804
+19. Pobles del Sud;19.1. el Forn d'Alcedo;19;1;1;191;1901
+19. Pobles del Sud;19.2. el Castellar-l'Oliverar;19;2;2;192;1902
+19. Pobles del Sud;19.2. el Castellar-l'Oliverar;19;2;3;192;1903
+19. Pobles del Sud;19.2. el Castellar-l'Oliverar;19;2;4;192;1904
+19. Pobles del Sud;19.2. el Castellar-l'Oliverar;19;2;5;192;1905
+19. Pobles del Sud;19.2. el Castellar-l'Oliverar;19;2;15;192;1915
+19. Pobles del Sud;19.3. Pinedo;19;3;6;193;1906
+19. Pobles del Sud;19.3. Pinedo;19;3;7;193;1907
+19. Pobles del Sud;19.4. el Saler;19;4;8;194;1908
+19. Pobles del Sud;19.5. el Palmar;19;5;9;195;1909
+19. Pobles del Sud;19.6. el Perellonet;19;6;16;196;1916
+19. Pobles del Sud;19.7. la Torre;19;7;11;197;1911
+19. Pobles del Sud;19.7. la Torre;19;7;12;197;1912
+19. Pobles del Sud;19.7. la Torre;19;7;13;197;1913
+19. Pobles del Sud;19.7. la Torre;19;7;14;197;1914
+19. Pobles del Sud;19.8. Faitanar;19;8;12;198;1912
